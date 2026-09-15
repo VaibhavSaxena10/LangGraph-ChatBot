@@ -1,3 +1,9 @@
 requirements.txt
 
 .env
+
+chatbot.db
+
+__pycache__
+
+myenv
